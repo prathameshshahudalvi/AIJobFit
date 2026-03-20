@@ -1,8 +1,8 @@
-# AI Job Fit
+# AI Job Matcher
 
 > Match your profile, tailor your resume, and ace your interview.
 
-AI Job Fit is a Streamlit-based web app that takes your skills and a job description and instantly produces a tailored resume, a match score, real interview questions sourced from the web, and AI-generated practice questions — all in one place.
+AI Job Matcher is a Streamlit-based web app that takes your skills and a job description and instantly produces a tailored resume, a match score, real interview questions sourced from the web, and AI-generated practice questions — all in one place.
 
 ---
 
